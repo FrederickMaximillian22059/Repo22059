@@ -1,1 +1,2 @@
-Edit from remote file1
+Edit file1 from remote
+Edit from local file1
